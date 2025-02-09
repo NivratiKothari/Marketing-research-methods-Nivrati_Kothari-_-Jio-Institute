@@ -1,2 +1,9 @@
 # Marketing-research-methods-Nivrati_Kothari-_-Jio-Institute
 This repository contains assignments on regression, CLV, churn prediction, sentiment analysis, time series, and marketing mix models. These help analyze customer behavior, forecast trends, and optimize marketing strategies using data-driven insights.
+
+This repository contains assignments from the Marketing Research Methods course at Jio Institute, focusing on data-driven marketing strategies and analytics. The coursework applies statistical and machine learning techniques to analyze customer behavior, predict trends, and optimize marketing strategies. Assignments include Regression and Logistic Regression, which help predict marketing outcomes and customer behaviors, and Customer Lifetime Value (CLV) models, which estimate long-term customer profitability. Sentiment analysis on platforms like Reddit and YouTube enables understanding of consumer perceptions, while Cox’s Proportional Hazard Model aids in predicting customer churn and retention strategies.
+
+Time series analysis provides insights into sales forecasting and trend analysis, ensuring data-driven marketing decisions. Amazon Review Analysis focuses on sentiment and emotion detection, offering valuable consumer insights. Marketing Mix Models evaluate the effectiveness of different marketing channels, helping businesses optimize their return on investment (ROI). These assignments demonstrate how statistical tools and machine learning enhance decision-making, allowing for precise targeting and resource allocation.
+
+By applying these methodologies, marketers can understand customer behaviors, improve engagement strategies, and enhance predictive analytics in business settings. The course strengthens the ability to analyze market trends and measure campaign success effectively. This repository serves as a comprehensive collection of applied marketing analytics techniques, contributing to strategic marketing management.
+
